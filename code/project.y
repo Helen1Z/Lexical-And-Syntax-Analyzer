@@ -110,7 +110,7 @@ int my_fun() {
 }
 
 int main() {
-    yyin = fopen("wll4.txt", "r");
+    yyin = fopen("../examples/wll1.txt", "r");
     yyout = fopen("wll_analysis.txt", "w");
     yyparse();
     fclose(yyin); 
