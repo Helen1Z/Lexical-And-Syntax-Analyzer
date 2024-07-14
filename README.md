@@ -20,7 +20,7 @@ This project was built with the following:
  ## About The Project
  
 <p align="center">
-<img src="https://github.com/Helen1Z/Color-Sorting-Robotic-Arm/blob/main/simulation/simulation_example.gif" width="400" title="arm_in_position"/>
+<img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/run.gif" width="500" title="arm_in_position"/>
 </p>
 
 The Lexical and Syntax Analyzer is a crucial component in the compilation process of programming languages. This project provides tools to analyze the structure and syntax of code written in a specific programming language. It breaks down the source code into tokens and checks for grammatical structure, ensuring that the code adheres to the rules of the language.
@@ -76,7 +76,8 @@ To run the Lexical and Syntax Analyzer, follow these steps:
     ```sh
     ./a.out
     ```
-<p>Also, you can change the path for a different input file in **project.y** to experiment. You can find more files in the **examples** folder or you can create your own. To make sure you use the correct code in terms of lexical and syntax analysis of the GPL programming language</p>
+<p>In addition, you can change the path for a different input file in <b>project.y</b> to experiment. You can find more files in the <b>examples</b> folder or you can create your own. To make sure you use the correct code in terms of lexical and syntax analysis of the GPL programming language, here is the structure table below:</p>
+<img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/structure_table.png" width="400" title="structure_table"/>
 
  ## Features
 
@@ -88,7 +89,7 @@ To run the Lexical and Syntax Analyzer, follow these steps:
 
  ## Usage
 
-Here are some examples of the simulation program running:
+Here are some examples of the lexical and syntax analyzer running:
 <table>
   <tr>
     <td>
