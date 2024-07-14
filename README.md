@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Helen1Z/Color-Sorting-Robotic-Arm/blob/main/simulation/box_pickup.png" width="400" title="box_pickup"/>
+<img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/image.jpg"/>
 <h3 align="center">Lexical And Syntax Analyzer</h3>
 <p align="center">
 In Linux
@@ -76,7 +76,7 @@ To run the Lexical and Syntax Analyzer, follow these steps:
     ```sh
     ./a.out
     ```
-
+<p>Also, you can change the path for a different input file in **project.y** to experiment. You can find more files in the **examples** folder or you can create your own. To make sure you use the correct code in terms of lexical and syntax analysis of the GPL programming language</p>
 
  ## Features
 
@@ -92,15 +92,24 @@ Here are some examples of the simulation program running:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/screenshots/arm_in_position.png" width="400" title="arm_in_position"/>
+     Correct example code
+      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/examples/wll1.png" width="400" title="wll1"/>
     </td>
     <td>
-      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/screenshots/box_pickup.png" width="400" title="box_pickup"/>
-    </td>
-    <td>
-      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/screenshots/placing_box.png" width="400" title="placing_box"/>
+     Correct result (a part of it)
+      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/examples/wll1_result_part.png" width="400" title="wll1_result_part"/>
     </td>
   </tr>
+ <tr>
+    <td>
+     Example code with errors
+      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/examples/wll4_with_errors.png" width="400" title="wll4_with_errors"/>
+    </td>
+    <td>
+     Result with errors
+      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/examples/wll4_result.png" width="400" title="wll4_result"/>
+    </td>
+ </tr>
 </table>
  
 ## Collaborators
