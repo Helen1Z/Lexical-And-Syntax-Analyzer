@@ -33,7 +33,7 @@ The Lexical and Syntax Analyzer is a crucial component in the compilation proces
 
 1. Clone the repo
    ```sh
-   gh repo clone Helen1Z/Lexical-And-Syntax-Analyzer
+   gh repo clone helenzina/Lexical-And-Syntax-Analyzer
    ```
 2. Install Flex and Bison by typing the following commands in a Linux terminal:
     ```sh
@@ -120,7 +120,7 @@ Here are some examples of the lexical and syntax analyzer running:
 <tr>
 
 <td align="center">
-<a href="https://github.com/Helen1Z">
+<a href="https://github.com/helenzina">
 <img src="https://avatars.githubusercontent.com/u/128386591?v=4" width="100;" alt="Helen Zina"/><br>
 <sub>
 <b>Helen Zina (Me)</b>
@@ -148,7 +148,7 @@ Distributed under the MIT License. See the LICENSE file for more information.
  
 If you have any questions or suggestions, feel free to reach out to us:
 - Helen Zina - helenz1@windowslive.com
-- Project Link: https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer
+- Project Link: https://github.com/helenzina/Lexical-And-Syntax-Analyzer
 
 
  ## Acknowledgments
