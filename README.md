@@ -14,7 +14,7 @@ In Linux
 This project was built with the following:
 - <a href="https://www.geeksforgeeks.org/flex-fast-lexical-analyzer-generator/">Flex</a> for the lexical analyzer.
 - <a href="https://www.gnu.org/software/bison/">Bison</a> for the syntax analyzer. 
-- Your preferred IDE (we used VS Code).
+- <a href="https://code.visualstudio.com/">VS Code</a> for the IDE.
 
 
  ## About The Project
