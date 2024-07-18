@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/image.jpg"/>
+<img src="https://github.com/helenzina/Lexical-And-Syntax-Analyzer/blob/main/image.jpg"/>
 <h3 align="center">Lexical And Syntax Analyzer</h3>
 <p align="center">
 In Linux
 <br/>
 <br/>
-<a href="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer"><strong>Explore the docs</strong></a>
+<a href="https://github.com/helenzina/Lexical-And-Syntax-Analyzer"><strong>Explore the docs</strong></a>
 </p>
 </div>
 
@@ -20,7 +20,7 @@ This project was built with the following:
  ## About The Project
  
 <p align="center">
-<img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/run.gif" width="500" title="arm_in_position"/>
+<img src="https://github.com/helenzina/Lexical-And-Syntax-Analyzer/blob/main/run.gif" width="500" title="arm_in_position"/>
 </p>
 
 The Lexical and Syntax Analyzer is a crucial component in the compilation process of programming languages. This project provides tools to analyze the structure and syntax of code written in a specific programming language. It breaks down the source code into tokens and checks for grammatical structure, ensuring that the code adheres to the rules of the language.
@@ -77,7 +77,7 @@ To run the Lexical and Syntax Analyzer, follow these steps:
     ./a.out
     ```
 <p>In addition, you can change the path for a different input file in <b>project.y</b> to experiment. You can find more files in the <b>examples</b> folder or you can create your own. To make sure you use the correct code in terms of lexical and syntax analysis of the GPL programming language, here is the structure table below:</p>
-<img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/structure_table.png" width="400" title="structure_table"/>
+<img src="https://github.com/helenzina/Lexical-And-Syntax-Analyzer/blob/main/structure_table.png" width="400" title="structure_table"/>
 
  ## Features
 
@@ -94,21 +94,21 @@ Here are some examples of the lexical and syntax analyzer running:
   <tr>
     <td>
      Correct example code
-      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/examples/wll1.png" width="400" title="wll1"/>
+      <img src="https://github.com/helenzina/Lexical-And-Syntax-Analyzer/blob/main/examples/wll1.png" width="400" title="wll1"/>
     </td>
     <td>
      Correct result (a part of it)
-      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/examples/wll1_result_part.png" width="400" title="wll1_result_part"/>
+      <img src="https://github.com/helenzina/Lexical-And-Syntax-Analyzer/blob/main/examples/wll1_result_part.png" width="400" title="wll1_result_part"/>
     </td>
   </tr>
  <tr>
     <td>
      Example code with errors
-      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/examples/wll4_with_errors.png" width="400" title="wll4_with_errors"/>
+      <img src="https://github.com/helenzina/Lexical-And-Syntax-Analyzer/blob/main/examples/wll4_with_errors.png" width="400" title="wll4_with_errors"/>
     </td>
     <td>
      Result with errors
-      <img src="https://github.com/Helen1Z/Lexical-And-Syntax-Analyzer/blob/main/examples/wll4_result.png" width="400" title="wll4_result"/>
+      <img src="https://github.com/helenzina/Lexical-And-Syntax-Analyzer/blob/main/examples/wll4_result.png" width="400" title="wll4_result"/>
     </td>
  </tr>
 </table>
